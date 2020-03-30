@@ -1,0 +1,7 @@
+{
+  "metals.serverVersion": "0.8.5-amm-8",
+  "metals.customRepositories": [
+    "central",
+    "bintray:alexarchambault/metals-amm"
+  ]
+}
